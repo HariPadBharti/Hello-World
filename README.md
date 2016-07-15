@@ -1,4 +1,3 @@
-# Hello-World
-testing
-hii 
-i m checking the commit 
+# RANDOM PRACTISE
+
+SQL
